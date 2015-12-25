@@ -1,8 +1,11 @@
 # MuscleCard-Applet
-The MUSCLE Applet is capable of generating cryptographic keys on the card, and allows external keys to be inserted onto the card. These keys can be used in cryptographic operations, after proper user (or host application) authentication. 
+The Muscle Applet is a free implementation of the Cryptographic Card Edge Definition for Java Enabled Smartcards.
+
 
 INTRODUCTION
 ========
+It is capable of generating cryptographic keys on the card, and allows external keys to be inserted onto the card. These keys can be used in cryptographic operations, after proper user (or host application) authentication. 
+
 This Applet is capable of handling generic objects. 
 
 An object is a sequence of bytes whose meaning is determined by the application. The Applet allows a host application to read and/or modify objects’ contents, after proper user (or host application) authentication. 
