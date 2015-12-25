@@ -1,0 +1,11 @@
+<JavaCardProject name="musclecard">
+<USER>
+<PKG name="com.musclecard.CardEdge" aid="A0 00 00 00 01" major="1" minor="0">
+<APPLET aid="A0 00 00 00 01 01" instanceaid="" parameter="" authority="" privileges="" index="14392" name="CardEdge"/>
+</PKG>
+<Libs/>
+</USER>
+<DebugInfo>
+<Protocol name="T1"/>
+</DebugInfo>
+</JavaCardProject>
