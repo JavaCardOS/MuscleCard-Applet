@@ -19,10 +19,10 @@ Have doubts? You can visit [Here](http://javacardos.com/javacardforum/viewforum.
 Building
 ===
 
-Using [JCIDE](http://javacardos.com/javacardforum/viewtopic.php?f=26&t=43) open this project,  Click "Buid All Packages(F7)" to build the source code.
+The easiest way is using [JCIDE](http://javacardos.com/javacardforum/viewtopic.php?f=26&t=43) open this project,  Click "Buid All Packages(F7)" to build the source code.
 
-Detailed usage:
+Usage:
 ===========
- You can use [pyApduTool](http://javacardos.com/javacardforum/viewtopic.php?f=3&t=38) to Download this MuscleCard applet to card and install it, select the applet, and send APDU to card.
+ Use [pyApduTool](http://javacardos.com/javacardforum/viewtopic.php?f=3&t=38) to Download this  applet to card, install, select and communicate with the card.
 
 
