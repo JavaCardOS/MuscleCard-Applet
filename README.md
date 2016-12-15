@@ -17,16 +17,16 @@ The source code is released under BSD and is free.
 Discussion
 =======
 
-Have doubts? You can visit [Here](http://javacardos.com/javacardforum/viewforum.php?f=40) to get more scripts and leave your comments and suggestions.
+Have doubts? You can visit [Here](http://javacardos.com/javacardforum/viewforum.php?f=40?ws=github&prj=muscleCard) to get more scripts and leave your comments and suggestions.
 
 Building
 ===
 
-The easiest way is using [JCIDE](http://javacardos.com/javacardforum/viewtopic.php?f=26&t=43) open this project,  Click "Buid All Packages(F7)" to build the source code.
+The easiest way is using [JCIDE](http://javacardos.com/javacardforum/viewtopic.php?f=26&t=43?ws=github&prj=muscleCard) open this project,  Click "Buid All Packages(F7)" to build the source code.
 
 Usage:
 ===========
- Use [pyApduTool](http://javacardos.com/javacardforum/viewtopic.php?f=3&t=38) to Download this  applet to card, install, select and communicate with the card.
+ Use [pyApduTool](http://javacardos.com/javacardforum/viewtopic.php?f=3&t=38?ws=github&prj=muscleCard) to Download this  applet to card, install, select and communicate with the card.
 
 
 Additional Features:
